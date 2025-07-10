@@ -1,1 +1,0 @@
-### React version of my portfolio using framer motion, tailwind and shadcn components.
